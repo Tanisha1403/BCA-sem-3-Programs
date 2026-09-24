@@ -1,0 +1,54 @@
+select * from tab;
+
+TNAME                          TABTYPE  CLUSTERID                               
+------------------------------ ------- ----------                               
+TANISHA_TABLE                  TABLE                                            
+BIN$vt1tC5pyQLyvajt2J4bV3w==$0 TABLE                                            
+MAHADEV                        TABLE                                            
+EMPLOYEE                       TABLE                                            
+BIN$93ENqzWkT92jf9ZgkJ4BTA==$0 TABLE                                            
+DEPT                           TABLE                                            
+BONUS                          TABLE                                            
+SALGRADE                       TABLE                                            
+DEPT_TBL                       TABLE                                            
+EMP_TBL                        TABLE                                            
+BIN$4IMQYBrgSw+2piJEv3bLOw==$0 TABLE                                            
+
+TNAME                          TABTYPE  CLUSTERID                               
+------------------------------ ------- ----------                               
+EMP1                           TABLE                                            
+BIN$mGi4enxAStSI3n1as34tCw==$0 TABLE                                            
+STUD                           TABLE                                            
+COMPNYS                        TABLE                                            
+SALE                           TABLE                                            
+SALES                          TABLE                                            
+PRODUCT                        TABLE                                            
+STUD1                          TABLE                                            
+CUSTOMER                       TABLE                                            
+BIN$cY/xsTukR4Cti3kEmcwj5w==$0 TABLE                                            
+BIN$Ly2IDggsScSvEGt8OItdpQ==$0 TABLE                                            
+
+TNAME                          TABTYPE  CLUSTERID                               
+------------------------------ ------- ----------                               
+BIN$plEVOMvLShOKgvskWO3nNw==$0 TABLE                                            
+BIN$zYBwhc62QgCPImj0mSU/Bw==$0 TABLE                                            
+BIN$f1N3kRf7SLySClV1aEx2vg==$0 TABLE                                            
+REG                            TABLE                                            
+BIN$+0uVnPrvSzuZiERM50pHhw==$0 TABLE                                            
+STUDENTS                       TABLE                                            
+BIN$8cEiuP9wThKfFLDoWoN1aQ==$0 TABLE                                            
+KAMIL                          TABLE                                            
+ORDER1                         TABLE                                            
+ROLLUPTEST                     TABLE                                            
+SUPPLIERS                      TABLE                                            
+
+TNAME                          TABTYPE  CLUSTERID                               
+------------------------------ ------- ----------                               
+EMPLOYE                        TABLE                                            
+EMP3                           TABLE                                            
+BCA1                           TABLE                                            
+
+36 rows selected.
+
+SQL> select
+  2  
